@@ -1,14 +1,13 @@
 
 # National Workshop on System Security: from vulnerabilities to trustworthy systems
 
->[!info]
->**Owner:** Rikhil Nellimarla
->**Partner clubs:** OSC + Null Chapter 
->**Advisory escalation:** Dr. Sibi Chakkaravarty
->**Funding baseline:** INR 4,97,000 (IIT-M linked, security-first objective)
->**Target scale:** 600 participants, 80 workforce, 3 days
->**Event window:** Apr 19-21
->**Venue anchor:** SAC + campus distributed zones
+**Owner:** Rikhil Nellimarla
+**Partner clubs:** OSC + Null Chapter 
+**Advisory escalation:** Dr. Sibi Chakkaravarty
+**Funding baseline:** INR 4,97,000 (IIT-M linked, security-first objective)
+**Target scale:** 600 participants, 80 workforce, 3 days
+**Event window:** Apr 19-21
+**Venue anchor:** SAC + campus distributed zones
 
 ## Quick Links
 

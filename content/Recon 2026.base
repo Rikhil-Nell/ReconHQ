@@ -1,0 +1,12 @@
+filters:
+  and:
+    - file.folder == "Recon 2026"
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.ctime
+      - formula.Untitled

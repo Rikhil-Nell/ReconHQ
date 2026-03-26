@@ -5,7 +5,7 @@ Use this as the operating one-pager for each zone. Fill names and phone numbers 
 ## Common SOP for All Zones
 
 
-- **Owner:** `<name>` | **Backup:** `<name>` | **Escalation:** Ops Chief → Event Director
+- **Owner:** `<TBD name>` | **Backup:** `<TBD name>` | **Escalation:** Ops Chief → Event Director
 - **Open checklist:** power, internet, signage, queue markers, QR scan test, safety check
 - **Slot cadence:** default 45 minutes session + 10 minutes reset unless noted
 - **Capacity control:** hard cap enforced, no overfill; overflow goes to wait queue
@@ -54,7 +54,7 @@ Use this as the operating one-pager for each zone. Fill names and phone numbers 
 
 ---
 
-## 4) Web Exploit Dojo (
+## 4) Web Exploit Dojo (TBD)
 
 - **Objective:** teach web security through sandboxed vulnerable apps
 - **Capacity:** 50/session
@@ -121,8 +121,8 @@ Use this as the operating one-pager for each zone. Fill names and phone numbers 
 ## Zone Handover Template (End of Shift)
 
 
-- **Shift start/end:** `<time>`
-- **Sessions completed:** `<count>`
+- **Shift start/end:** `<TBD time>`
+- **Sessions completed:** `<TBD count>`
 - **Incidents:** `<yes/no + details>`
-- **Consumables used:** `<list>`
-- **Pending actions for next shift:** `<list>` 
+- **Consumables used:** `<TBD list>`
+- **Pending actions for next shift:** `<TBD list>` 

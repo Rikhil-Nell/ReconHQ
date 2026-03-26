@@ -175,12 +175,12 @@ This handbook is operational. Every volunteer must read and sign acknowledgment 
 
 |Role|Phone|
 |---|---|
-|Ops Chief|`<phone>`|
-|Event Director|`<phone>`|
-|Medical Desk|`<phone>`|
-|Security Desk|`<phone>`|
-|Logistics Transport|`<phone>`|
-|Sponsor Relations|`<phone>`|
+|Ops Chief|`<TBD>`|
+|Event Director|`<TBD>`|
+|Medical Desk|`<TBD>`|
+|Security Desk|`<TBD>`|
+|Logistics Transport|`<TBD>`|
+|Sponsor Relations|`<TBD>`|
 
 ---
 

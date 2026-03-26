@@ -11,20 +11,22 @@
 
 ### Network Architecture
 
-- Dedicated event network stack (not primary campus Wi-Fi dependent).
-- Segmentation:
-    - **VLAN 1:** core ops (restricted)
-    - **VLAN 2:** CTF participants
-    - **VLAN 3:** KOTH arena
-    - **VLAN 4:** sponsor/demo internet
-    - **VLAN 5:** public attendee guest internet (rate-limited)
-- Firewall deny-by-default between VLANs.
+- Cloud-first architecture (not campus Wi-Fi dependent).
+- Segmentation via OpenVPN overlay network:
+    - **VPN overlay:** participant access to CTF/KOTH challenge targets
+    - **Campus Wi-Fi (best-effort):** for accessing cloud services (CTFd, app backend, scoreboard)
+    - **Sponsor/demo internet:** separate guest network (rate-limited)
+    - **Ops network:** 4G/5G backup for command & control
+- Firewall deny-by-default on all AWS security groups.
+- VPN subnet (10.8.0.0/16) with per-participant .ovpn configs for anti-cheat tracking.
 
 ### Hosting
 
-- **CTF:** CTFd (managed/self-hosted cloud) with daily snapshot backups.
-- **KOTH:** isolated target pool with automated reset every 30–60 min.
-- **App backend:** cloud-hosted with CDN + uptime monitor + fallback page.
+- **CTF:** CTFd on AWS EC2 (t3.xlarge) with daily snapshot backups.
+- **KOTH:** 10× AWS EC2 instances (t3.medium) with automated reset every 30–60 min.
+- **OpenVPN Server:** AWS EC2 (t3.large) for participant VPN access to challenge targets.
+- **App backend:** AWS EC2/ECS with CDN + uptime monitor + fallback page.
+- **Database:** Neon Postgres (managed, serverless).
 
 ### Fallbacks
 
@@ -151,11 +153,11 @@ Full risk register with 18 tracked risks: [Recon — Risk Register](https://www.
 
 |Vendor Category|Status|Lock Deadline|Notes|
 |---|---|---|---|
-|Internet provider||T-20||
-|Router/network hardware||T-20||
-|Power backup (UPS/generator)||T-20||
-|Print (badges, signage, merch)||T-20||
-|Food / catering||T-14|Veg/non-veg + allergy markers|
-|Lodging partner(s)||T-14|10% overbooking buffer|
-|Transport / shuttles||T-14|Night safety routes required|
-|AV / stage equipment||T-14||
+|Internet provider|TBD|T-20||
+|Router/network hardware|TBD|T-20||
+|Power backup (UPS/generator)|TBD|T-20||
+|Print (badges, signage, merch)|TBD|T-20||
+|Food / catering|TBD|T-14|Veg/non-veg + allergy markers|
+|Lodging partner(s)|TBD|T-14|10% overbooking buffer|
+|Transport / shuttles|TBD|T-14|Night safety routes required|
+|AV / stage equipment|TBD|T-14||

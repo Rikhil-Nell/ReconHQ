@@ -451,7 +451,7 @@ The experience is designed to feel seamless, with a flow of scan, solve, tap, an
 
 **Deliverable** — Teams submit exploit chain and mitigation notes.
 
-### 7.8 Sponsor Demo Street
+### 7.8 Sponsor Demo Street (DAY-2 only)
 
 **Concept** — Sponsor stalls with fixed demo blocks and micro-challenges.
 
@@ -473,7 +473,7 @@ The experience is designed to feel seamless, with a flow of scan, solve, tap, an
 
 **Rules** — In-scope assets listed in app legal page. Out-of-scope attacks = immediate disqualification.
 
-### 7.10 Security Career Clinic
+### 7.10 Security Career Clinic (DAY-2 only)
 
 **Format** — CV triage, GitHub profile clinic, roadmap advising, internship prep.
 
@@ -505,37 +505,7 @@ The experience is designed to feel seamless, with a flow of scan, solve, tap, an
 
 ## 9) Full 3-Day Schedule with Rest Windows
 
-### Day 1 (Apr 25)
-
-- **08:00–12:00** — Final setup + technical check + staff briefing.
-- **12:00–13:30** — Lunch + volunteer shift handoff.
-- **13:30–14:00** — Gates open and check-in.
-- **14:00–15:00** — Inauguration.
-- **15:00–16:00** — Keynote/Talk 1.
-- **16:15–17:15** — Keynote/Talk 2.
-- **17:15–18:00** — Break + CTF briefing.
-- **18:00–06:00** — Overnight CTF (with side events running in reduced mode until 01:00).
-
-### Day 2 (Apr 26)
-
-- **06:00–08:00** — CTF close + provisional scoring + participant breakfast.
-- **08:00–12:30** — Mandatory participant rest block (no heavy sessions).
-- **10:00–12:00** — Soft activities only (career clinic, sponsor booths quiet mode).
-- **12:30–14:00** — Lunch.
-- **14:00–16:00** — Workshops + village blocks.
-- **16:00–18:30** — Sponsor demos and challenge street.
-- **18:30–20:00** — Dinner + KOTH briefing.
-- **20:00–22:00** — Warmup and qualification windows.
-- **22:00–06:00** — Overnight KOTH.
-
-### Day 3 (Apr 27)
-
-- **06:00–08:30** — KOTH close + adjudication + breakfast.
-- **08:30–12:30** — Mandatory rest block (low intensity only).
-- **12:30–14:00** — Lunch.
-- **14:00–16:00** — Finals highlights + lightning talks + winner verification.
-- **16:00–17:00** — Awards and closing ceremony.
-- **17:00–20:00** — Teardown and asset recovery.
+Please refer: [[001 Agenda & Run of Show]]
 
 ---
 

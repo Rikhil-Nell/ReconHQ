@@ -7,46 +7,55 @@ This is the control script for stage, announcements, and timing discipline.
 
 ---
 
-## Day 1 (Apr 25)
+## Day 1 (Apr 19)
 
-### 13:30–14:00 Gates Open
+### 9:30–10:00 Gates Open
 
-- **13:30** — Doors open, registration scan begins
-- **13:35** — Ambient playlist + sponsor loop on screens
-- **13:40** — Emcee reminder: seating and opening time
-- **13:50** — Final VIP and speaker readiness check
-- **13:58** — House lights cue and opening sting
+- **9:30** — Doors open, registration scan begins
+- **9:35** — Ambient playlist + sponsor loop on screens
+- **9:40** — Emcee reminder: seating and opening time
+- **9:50** — Final VIP and speaker readiness check
+- **9:58** — House lights cue and opening sting
 
-### 14:00–15:00 Inauguration
+### 10:00–11:00 Inauguration
 
-- **14:00** — Emcee opening _(3 min)_
-- **14:03** — Dignitary welcome and lamp/start protocol _(10 min)_
-- **14:13** — Organizer address (Rikhil) _(8 min)_
-- **14:21** — Advisory/faculty remarks _(8 min)_
-- **14:29** — Event mission and safety/scope briefing _(8 min)_
-- **14:37** — Sponsor acknowledgment _(6 min)_
-- **14:43** — Photo op _(7 min)_
-- **14:50** — Transition to talk block instructions _(10 min buffer)_
+- **10:00** — Emcee opening _(3 min)_
+- **10:03** — Dignitary welcome and lamp/start protocol _(10 min)_
+- **10:13** — Organizer address (Rikhil) _(8 min)_
+- **10:21** — Advisory/faculty remarks _(8 min)_
+- **10:29** — Event mission and safety/scope briefing _(8 min)_
+- **10:37** — Sponsor acknowledgment _(6 min)_
+- **10:43** — Photo op _(7 min)_
+- **10:50** — Transition to talk block instructions _(10 min buffer)_
 
-### 15:00–16:00 Talk 1 (requires hands on sessions might have to stretch to two hours)
+### 11:00–12:30 Talk 1
 
-- **15:00** — Speaker intro _(2 min)_
-- **15:02** — Talk live _(43 min)_
-- **15:45** — Moderated Q&A _(12 min)_
-- **15:57** — Closing and thank-you _(3 min)_
+- **11:00** — Speaker intro _(2 min)_
+- **11:02** — Talk live _(58 min)_
+- **12:00** — Moderated Q&A _(27 min)_
+- **12:27** — Closing and thank-you _(3 min)_
 
-### 16:15–17:15 Talk 2
+### 13:30–15:00 Talk 2
 
-- **16:15** — Intro _(2 min)_
-- **16:17** — Talk live _(43 min)_
-- **17:00** — Q&A _(12 min)_
-- **17:12** — Transition notes _(3 min)_
+- **13:30** — Intro _(2 min)_
+- **13:32** — Talk live _(58 min)_
+- **14:30** — Q&A _(27 min)_
+- **14:57** — Transition notes _(3 min)_
 
-### 17:15–18:00 CTF Briefing and Break
+### 15:00–17:00 All Stalls Open
 
-- **17:15** — CTF rules, scope, anti-cheat, support channels _(20 min)_
-- **17:35** — Platform login dry check _(10 min)_
-- **17:45** — Hydration/meal break + stationing _(15 min)_
+- **15:00** — Side zones open (all green checks required)
+- **15:15** — Batch 1 workshops begin _(grace period ends)_
+- **16:00** — Sponsor demo street opens (formal)
+- **16:15** — Batch 2 workshops begin
+- **16:30** — Sponsor challenge block A
+- **17:00** — Sponsor challenge block B _(handoff to CTF briefing)_
+
+### 17:00–18:00 CTF Briefing and Break
+
+- **17:00** — CTF rules, scope, anti-cheat, support channels _(20 min)_
+- **17:20** — Platform login dry check _(10 min)_
+- **17:30** — Hydration/meal break + stationing _(30 min)_
 
 ### 18:00–06:00 Overnight CTF
 
@@ -63,7 +72,7 @@ This is the control script for stage, announcements, and timing discipline.
 
 ---
 
-## Day 2 (Apr 26)
+## Day 2 (Apr 20)
 
 ### 06:00–12:30 Recovery and Low-Intensity Block
 
@@ -73,21 +82,34 @@ This is the control script for stage, announcements, and timing discipline.
 - **08:00** — Mandatory rest advisory for participants
 - **10:00** — Soft activities: career clinic / sponsor quiet mode
 
-### 14:00–18:30 Villages and Sponsor Blocks
+### 13:30–14:30 Talk 3
 
-- **14:00** — Side zones open (all green checks required)
-- **14:15** — Batch 1 workshops begin
-- **15:15** — Batch 2 workshops begin
+- **13:30** — Intro _(2 min)_
+- **13:32** — Talk live _(43 min)_
+- **14:15** — Q&A _(12 min)_
+- **14:27** — Transition notes _(3 min)_
+
+### 14:30–15:30 Talk 4
+
+- **14:30** — Intro _(2 min)_
+- **14:32** — Talk live _(43 min)_
+- **15:15** — Q&A _(12 min)_
+- **15:27** — Transition notes _(3 min)_
+
+### 15:30–21:30 All Stalls Open
+
+- **15:30** — Side zones open (all green checks required)
+- **15:45** — Batch 1 workshops begin _(grace period ends)_
 - **16:00** — Sponsor demo street opens (formal)
-- **16:30** — Sponsor challenge block A
-- **17:15** — Sponsor challenge block B
+- **16:45** — Batch 2 workshops begin
+- **17:00** — Sponsor challenge block A
+- **17:45** — Sponsor challenge block B
 - **18:00** — KOTH briefing pre-call announcement
 
-### 18:30–22:00 Dinner and KOTH Warmup
+### 21:30–22:00 Dinner and KOTH Briefing
 
-- **18:30** — Dinner service starts
-- **19:30** — KOTH rules and target handling briefing
-- **20:00** — Warmup arena opens
+- **21:30** — Dinner service starts
+- **21:30** — KOTH rules and target handling briefing
 - **21:30** — Final eligibility and account checks
 - **21:50** — 10-minute countdown and fairness reminders
 
@@ -104,7 +126,7 @@ This is the control script for stage, announcements, and timing discipline.
 
 ---
 
-## Day 3 (Apr 27)
+## Day 3 (Apr 21)
 
 ### 06:00–12:30 Recovery and Adjudication
 

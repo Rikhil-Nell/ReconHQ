@@ -10,7 +10,7 @@
 - Overnight CTF and KOTH competitions with real prizes.
 - 10+ side events: hardware hacking, OSINT, forensics, AI red-teaming, gaming, and more.
 - 600 participants, 50 workforce, sponsors from across India.
-- Apr 25–27, SAC + campus distributed zones.
+- Apr 19–21, SAC + campus distributed zones.
 
 ---
 

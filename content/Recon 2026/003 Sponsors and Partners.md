@@ -5,7 +5,7 @@ Use these templates to standardize sponsor commitments and prevent last-minute a
 ## 1) Master Sponsor Term Sheet (Common to All Tiers)
 
 - **Event:** VIT-AP CyberSec Fest 2026
-- **Dates:** Apr 25–27
+- **Dates:** Apr 19–21
 - **Venue:** SAC + campus zones
 - **Organizer:** OSC + Null Chapter (authorized signatory: Event Director)
 
@@ -23,7 +23,7 @@ Use these templates to standardize sponsor commitments and prevent last-minute a
 
 ### Title Sponsor (1 slot)
 
-**Commercial value:** `<INR amount>`
+**Commercial value:** `<TBD INR amount>`
 
 **Deliverables included:**
 
@@ -48,7 +48,7 @@ Use these templates to standardize sponsor commitments and prevent last-minute a
 
 ### Gold Sponsor (up to 4 slots)
 
-**Commercial value:** `<INR amount>`
+**Commercial value:** `<TBD INR amount>`
 
 **Deliverables included:**
 
@@ -60,7 +60,7 @@ Use these templates to standardize sponsor commitments and prevent last-minute a
 
 ### Community Sponsor (multiple)
 
-**Commercial value:** `<INR amount>`
+**Commercial value:** `<TBD INR amount>`
 
 **Deliverables included:**
 

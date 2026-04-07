@@ -81,17 +81,17 @@ Use a modular architecture:
 
 ### Core Command (14)
 
-| Role                              | Owner                                         | Reg No.                   | Contact                    |
-| --------------------------------- | --------------------------------------------- | ------------------------- | -------------------------- |
-| Event Director                    | Rikhil Nellimarla                             | 23BEC7030                 | 7386175224                 |
-| Chief Technical Officer           | Abhiram Venkat Sai Adabala                    | 23BCE8643                 | 7338299721                 |
-| Operations Chief                  | Mohammed Faariz  <br>Cheppali Chanu           | 24BCE7839  <br>23BCE20115 | 7010616263  <br>7989313174 |
-| Technical Infrastructure Lead     | Izhaan Raza  <br>Surya Theja Dhommalapati     | 24BCA7544  <br>24BCS7011  | 990515819  <br>7075052734  |
-| CTF/KOTH Competition Director     | Vikhyat Shajee Nambiar  <br>Swarnim Bandekar  | 23BCB7137  <br>24BCB7157  | 7795351504  <br>9945721305 |
-| Program and Speakers Lead         | Aditya J Shettigar  <br>Akshat Abhishek Singh | 23MIC7018  <br>24BCE7295  | 8861248515  <br>9310753160 |
-| Sponsorship and Partnerships Lead | Ayushi                                        | 24BCA7064                 | 8938967796                 |
-| Design, Media, and Broadcast Lead | Jahnvi Kotangale                              | 23BCE8201                 | 9082812563                 |
-| Volunteer and Logistics Lead      | Reet Mishra  <br>A. Dharineesh                | 23BCE8992  <br>23BCE7490  | 8639627939  <br>6374853503 |
+| Role                              | Owner                                        | Reg No.                   | Contact                    |
+| --------------------------------- | -------------------------------------------- | ------------------------- | -------------------------- |
+| Event Director                    | Rikhil Nellimarla                            | 23BEC7030                 | 7386175224                 |
+| Chief Technical Officer           | Abhiram Venkat Sai Adabala                   | 23BCE8643                 | 7338299721                 |
+| Operations Chief                  | Mohammed Faariz  <br>Cheppali Chanu          | 24BCE7839  <br>23BCE20115 | 7010616263  <br>7989313174 |
+| Technical Infrastructure Lead     | Izhaan Raza  <br>Surya Theja Dhommalapati    | 24BCA7544  <br>24BCS7011  | 990515819  <br>7075052734  |
+| CTF/KOTH Competition Director     | Vikhyat Shajee Nambiar  <br>Swarnim Bandekar | 23BCB7137  <br>24BCB7157  | 7795351504  <br>9945721305 |
+| Program and Speakers Lead         | Aditya J Shettigar                           | 23MIC7018  <br>           | 8861248515  <br>           |
+| Sponsorship and Partnerships Lead | Ayushi                                       | 24BCA7064                 | 8938967796                 |
+| Design, Media, and Broadcast Lead | Jahnvi Kotangale                             | 23BCE8201                 | 9082812563                 |
+| Volunteer and Logistics Lead      | Reet Mishra  <br>A. Dharineesh               | 23BCE8992  <br>23BCE7490  | 8639627939  <br>6374853503 |
 
 ### Functional Pods
 

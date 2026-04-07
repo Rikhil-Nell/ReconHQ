@@ -54,58 +54,85 @@ Use this as the operating one-pager for each zone. Fill names and phone numbers 
 
 ---
 
-## 4) Web Exploit Dojo (TBD)
+## 4) Application Security Zone
 
-- **Objective:** teach web security through sandboxed vulnerable apps
-- **Capacity:** 50/session
-- **Assets:** isolated lab targets, student guide, hint cards, scoreboard connector
-- **Staff:** 1 owner, 2 instructors, 2 floor helpers
-- **Rules:** only in-scope targets; no attacks outside lab VLAN
-- **Reset:** containers reset every session; credentials rotated per block
-- **Win condition:** challenge flags submitted + mitigation explanation
-- **Failure fallback:** if infra degrades, switch to guided walkthrough mode
-
----
-
-## 5) OSINT Corner
-
-- **Objective:** timed investigations on synthetic/public datasets
-- **Capacity:** 35/session
-- **Assets:** challenge packets, metadata tools, timed scoreboard forms
-- **Staff:** 1 owner, 1 challenge master, 1 proctor
-- **Rules:** no doxxing, no real-person harassment, no private data scraping
-- **Reset:** new scenario every hour
-- **Win condition:** highest validated evidence score
-- **Failure fallback:** move to offline packet mode if network fails
+- **Objective:** teach real-world application vulnerabilities, exploitation flow, and mitigation in a controlled lab
+- **Capacity:** fixed scheduled batch; target 40-60/session depending on room and demo visibility
+- **Assets:** projector, presenter laptop, internet, vulnerable training app, browser tools, session deck/guide
+- **Staff:** 1 owner/speaker, 1 assistant, 1 queue or room controller
+- **Rules:** only event-provided lab targets; no testing outside the approved environment
+- **Reset:** lab state checked before each batch; demo accounts and credentials rotated as needed
+- **Win condition:** participants complete the guided tasks and submit takeaways or challenge answers
+- **Failure fallback:** convert to speaker-led walkthrough mode if live exploitation infra is unstable
 
 ---
 
-## 6) Forensics Sprint
+## 5) Media Forensics & Deepfake Lab
 
-- **Objective:** rapid DFIR mini-cases (pcap, memory, logs, stego)
-- **Capacity:** 40/session
-- **Assets:** case images, analysis VMs/tool USBs, answer validator
-- **Staff:** 1 owner, 2 case moderators, 1 scoring admin
-- **Reset:** case rotates hourly, top teams reviewed for integrity
-- **Win condition:** most correct artifacts + shortest resolution time
-- **Failure fallback:** distribute static case bundle and collect offline answers
-
----
-
-## 7) AI Red-Team Mini-Lab (might swap with application security)
-
-- **Objective:** prompt injection and defense in controlled AI sandbox
-- **Capacity:** 30/session
-- **Assets:** sandbox models, attack cards, defense checklist, report template
-- **Staff:** 1 owner, 2 mentors, 1 safety/compliance monitor
-- **Rules:** no policy-violating external model abuse; sandbox-only testing
-- **Reset:** model state reset every session
-- **Win condition:** exploit + mitigation pair validated by mentor panel
-- **Failure fallback:** run tabletop-only attack chain drill if model endpoint fails
+- **Objective:** run a hands-on forensic lab on manipulated image, video, and audio evidence
+- **Capacity:** 10-15 participants per batch
+- **Assets:** primary laptop, backup laptop, projector, local HTTP server, FFmpeg, Audacity, GIMP, StegSolve, ExifTool, printed score sheets
+- **Staff:** 1 owner, 1 technical assistant, 1 scoring/proctor volunteer
+- **Rules:** use only supplied files and tools; no tampering with scoring sheets or batch files
+- **Reset:** 15-minute buffer between batches to clear scores, restart local services, and restock prize tokens
+- **Win condition:** most validated challenge solves across ELA, de-blur, and spectrogram tracks
+- **Failure fallback:** distribute challenge bundle from backup laptop and collect answers offline
 
 ---
 
-## 8) Sponsor Demo Street
+## 6) Hacking Arena
+
+- **Objective:** demonstrate common cyber attack chains and teach the defense story behind them
+- **Capacity:** 80-100 participants per batch
+- **Assets:** 3-4 laptops, projector, hotspot/router, QR printouts, mic/audio support, station materials
+- **Staff:** 1 zone lead, 1 technical operator, 4 station leads, 2 crowd managers, 1 technical backup
+- **Rules:** demos stay simulated and in-scope; no use of live personal accounts or real unauthorized targets
+- **Reset:** station state, demo accounts, and presentation flow checked between batches
+- **Win condition:** participants complete station rotation and defense summary checkpoints
+- **Failure fallback:** collapse to central demo plus moderated discussion if one or more stations fail
+
+---
+
+## 7) Cyber Expo Zone
+
+- **Objective:** showcase participant-built cyber projects through live demos and structured booth interaction
+- **Capacity:** 10-20 stalls, 30-50 visitors in-zone at a time
+- **Assets:** tables, chairs, extension boards, Wi-Fi, stall labels, poster space, QR feedback forms
+- **Staff:** 1 zone lead, 1 logistics helper, judges optional if formal evaluation is enabled
+- **Rules:** every stall must demonstrate a real use case or working prototype; idle poster-only booths are not accepted
+- **Reset:** booth health check every 2 hours; reassign empty or failed stalls quickly
+- **Win condition:** judged winner set if evaluation is active, otherwise zone tracks visitor engagement and completions
+- **Failure fallback:** allow explanation-only demos if hardware fails and merge underused stalls during low traffic
+
+---
+
+## 8) Art Zone: Hack the Canvas
+
+- **Objective:** provide a non-technical creative zone that keeps traffic distributed while matching the event theme
+- **Capacity:** 20-25 comfortable, 30 max at a time
+- **Assets:** black chart paper, A4 sheets, pencils, markers, neon pens, white gel pens, graffiti wall material, collaborative canvas, optional laptops/tablets
+- **Staff:** 1 zone coordinator, 2 activity assistants, 1 material manager, 1 crowd manager, 1 optional digital-station helper
+- **Rules:** shared walls/canvas stay respectful and event-safe; no damage to venue surfaces
+- **Reset:** replenish stationery continuously and rotate crowded stations as needed
+- **Win condition:** open-participation zone; success measured by throughput and quality of shared installations
+- **Failure fallback:** close the optional digital station first and continue with manual stations only
+
+---
+
+## 9) Escape Room: System Breach
+
+- **Objective:** run a timed team puzzle experience around cyber-themed clues, locks, and ciphers
+- **Capacity:** teams of 3-4; target 4-5 teams per round if space supports parallel setups
+- **Assets:** printed clues, cipher sheets, lockboxes, number/key locks, keys, themed props, enclosed room, timers
+- **Staff:** 1 game master, 1-2 inside observers, 1 reset manager, 1 registration manager
+- **Rules:** no forcing locks, opening props, or bypassing clue order; hints only through staff
+- **Reset:** 2-5 minutes between runs to replace clues, relock boxes, and verify puzzle order
+- **Win condition:** final password or last lock solved before timeout
+- **Failure fallback:** convert to guided puzzle run if a lock or prop fails mid-session
+
+---
+
+## 10) Sponsor Demo Street
 
 - **Objective:** structured sponsor engagement with technical activity
 - **Capacity:** dynamic; one queue per stall

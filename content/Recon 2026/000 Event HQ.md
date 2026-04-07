@@ -423,35 +423,90 @@ The experience is designed to feel seamless, with a flow of scan, solve, tap, an
 
 **Scoring** — Not part of core security ranking, but gives passport points.
 
-### 7.4 Web Exploit Dojo
+### 7.4 Application Security Zone
 
-**Concept** — Controlled vulnerable apps (OWASP top 10 style).
+**Concept** — A structured hands-on application security session that introduces real-world vulnerabilities, attacker workflows, and mitigation patterns in a controlled training environment.
 
-**Flow** — Guided modules every 45 min. Beginner and advanced lanes.
+**Flow** — Three-hour guided block:
 
-**Safety** — Targets are local sandbox only. Explicit scope shown on wall and in app.
+1. Foundations: attack surfaces, common vulnerability classes, and why appsec matters across web, APIs, and AI-integrated systems.
+2. Live demo: controlled exploitation walkthroughs covering injection, XSS, and session-related abuse, followed by defensive fixes.
+3. Advanced wrap-up: secure coding principles, architecture basics, AI misuse/prompt injection risks, and Q&A.
 
-### 7.5 OSINT Corner
+**Requirements** — Projector, presenter laptop, reliable internet, vulnerable lab environment, browser tools, and one strong lead instructor with optional assistant.
 
-**Concept** — Time-boxed investigation puzzles using public data and synthetic personas.
+**Operating model** — Best run as fixed-capacity scheduled batches rather than walk-in traffic.
 
-**Challenges** — Social graph mapping, location inference, metadata extraction. No doxxing, no real-person harassment.
+### 7.5 Media Forensics & Deepfake Lab
 
-### 7.6 Forensics Sprint
+**Concept** — A three-hour forensic investigation lab where participants analyze manipulated images, video, and audio using real forensic workflows.
 
-**Concept** — 30-min mini-cases: memory dump, pcap, log triage, stego basics.
+**Challenge structure** — Nine progressive challenges across:
 
-**Flow** — Rolling case drops every hour. Individual or pairs.
+- Error Level Analysis for image forgery detection.
+- De-blurring and frame extraction to recover obscured details.
+- Spectrogram and audio analysis to uncover hidden messages.
 
-### 7.7 AI Red-Team Mini-Lab
+**Flow** — Registered batch format with challenge files hosted locally, printed score sheets, and a 15-minute reset buffer between batches.
 
-**Concept** — Prompt injection, jailbreak defenses, model misuse case study.
+**Requirements** — One primary laptop, one backup laptop, projector, local HTTP server, preloaded portable tools (FFmpeg, Audacity, GIMP, StegSolve, ExifTool), and prize tokens for solved challenges.
 
-**Format** — Attack/defend tabletop + hands-on sandbox.
+**Why it fits** — High learning value, easy scoring, and strong visual engagement for spectators during reveals.
 
-**Deliverable** — Teams submit exploit chain and mitigation notes.
+### 7.6 Hacking Arena
 
-### 7.8 Sponsor Demo Street (DAY-2 only)
+**Concept** — An immersive cyber awareness zone where participants see how common account compromise and social-engineering attack chains work, then learn the defenses.
+
+**Batch flow** — Three-hour structured experience:
+
+1. Live hack demonstrations such as simulated account takeover and session hijack scenarios.
+2. Attack deconstruction explaining phishing infrastructure, session theft, and attacker workflow.
+3. Interactive stations including phishing infrastructure analysis, anonymity tooling overview, mobile-camera phishing simulation, and social media attack analysis.
+4. Finale covering red-team vs blue-team thinking and defensive practices.
+
+**Requirements** — 3 to 4 laptops, projector, dedicated hotspot/router, microphone/audio support, QR printouts, and 7 to 9 volunteers including station leads and crowd managers.
+
+**Capacity** — Large-batch model, approximately 80 to 100 participants per batch.
+
+### 7.7 Cyber Expo Zone
+
+**Concept** — A structured innovation showcase where teams present cybersecurity projects, tools, and research through live demos instead of static posters.
+
+**Visitor flow** — Walk in, explore stalls, interact with teams, watch short demos, and move between project booths at their own pace.
+
+**Stall structure** — Each team gets one table, two chairs, power, poster space, and must present the project title, problem statement, live demo, and verbal explanation.
+
+**Project categories** — Cybersecurity tools, AI in security, blockchain security, digital forensics, network security, OSINT tools, privacy, and encryption.
+
+**Capacity** — 10 to 20 stalls with 30 to 50 visitors in-zone at a time.
+
+**Operational note** — Judging is optional; the zone still works well as a pure showcase and sponsor-footfall anchor.
+
+### 7.8 Art Zone: Hack the Canvas
+
+**Concept** — A cyberpunk-themed non-technical creative space where participants engage with neon, glitch, graffiti, sketching, and collaborative art activities.
+
+**Stations** — Neon art, glitch art, graffiti wall, traditional sketching, collaborative canvas, and optional digital art if devices are available.
+
+**Flow** — Walk-in format with 10 to 15 minute activity loops, volunteer-guided rotation, and open contribution walls that grow over the event.
+
+**Requirements** — Black chart paper, A4 sheets, sketching tools, neon markers, white gel pens, wall space, tables, chairs, extension boards, and optionally 2 to 4 laptops/tablets for digital art.
+
+**Capacity** — Comfortable load of 20 to 25 participants at a time, 30 max.
+
+### 7.9 Escape Room: System Breach
+
+**Concept** — A team-based puzzle room where participants act as agents trying to stop a rogue hacker by solving clues, codes, and lock challenges before time runs out.
+
+**Flow** — Teams of 3 to 4 register for time slots, receive a briefing, then work through a 15 to 20 minute sequence of hidden clues, lock puzzles, riddles/ciphers, and a final password or lockbox challenge.
+
+**Reset model** — 2 to 5 minute reset between runs with a dedicated game master and reset manager.
+
+**Requirements** — Printed clues, cipher sheets, lockboxes, number/key locks, themed props, posters, enclosed room space, and 4 to 5 volunteers.
+
+**Why it works** — High throughput, strong spectator interest, and a clear win/lose condition that is easy to explain.
+
+### 7.10 Sponsor Demo Street (DAY-2 only)
 
 **Concept** — Sponsor stalls with fixed demo blocks and micro-challenges.
 
@@ -465,7 +520,7 @@ The experience is designed to feel seamless, with a flow of scan, solve, tap, an
 
 **Commercial guardrail** — No pure sales pitches longer than 10 min without interactive component.
 
-### 7.9 Bug Bounty App Quest (secret campaign)
+### 7.11 Bug Bounty App Quest (secret campaign)
 
 **Design principle** — Keep it a discoverable easter egg, but legally scoped.
 
@@ -473,7 +528,7 @@ The experience is designed to feel seamless, with a flow of scan, solve, tap, an
 
 **Rules** — In-scope assets listed in app legal page. Out-of-scope attacks = immediate disqualification.
 
-### 7.10 Security Career Clinic (DAY-2 only)
+### 7.12 Security Career Clinic (DAY-2 only)
 
 **Format** — CV triage, GitHub profile clinic, roadmap advising, internship prep.
 
